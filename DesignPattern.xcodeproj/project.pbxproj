@@ -15,6 +15,7 @@
 		2E52BE9725E13BCC008EB525 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2E52BE9525E13BCC008EB525 /* LaunchScreen.storyboard */; };
 		2E52BEA225E13BCC008EB525 /* DesignPatternTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E52BEA125E13BCC008EB525 /* DesignPatternTests.swift */; };
 		2E52BEAD25E13BCC008EB525 /* DesignPatternUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E52BEAC25E13BCC008EB525 /* DesignPatternUITests.swift */; };
+		2E52BEE525E29F79008EB525 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 2E52BEE425E29F79008EB525 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2E52BEA825E13BCC008EB525 /* DesignPatternUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DesignPatternUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E52BEAC25E13BCC008EB525 /* DesignPatternUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignPatternUITests.swift; sourceTree = "<group>"; };
 		2E52BEAE25E13BCC008EB525 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2E52BEE425E29F79008EB525 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		2E52BE8925E13BCB008EB525 /* DesignPattern */ = {
 			isa = PBXGroup;
 			children = (
+				2E52BEE425E29F79008EB525 /* README.md */,
 				2E52BE8A25E13BCB008EB525 /* AppDelegate.swift */,
 				2E52BE8C25E13BCB008EB525 /* SceneDelegate.swift */,
 				2E52BE8E25E13BCB008EB525 /* ViewController.swift */,
@@ -233,6 +236,7 @@
 			files = (
 				2E52BE9725E13BCC008EB525 /* LaunchScreen.storyboard in Resources */,
 				2E52BE9425E13BCC008EB525 /* Assets.xcassets in Resources */,
+				2E52BEE525E29F79008EB525 /* README.md in Resources */,
 				2E52BE9225E13BCB008EB525 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
